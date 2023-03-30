@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as t,b as o}from"./app.68212281.js";const h='{"title":"\u5F00\u53D1\u89C4\u8303","description":"","frontmatter":{},"relativePath":"contributing/development-specification/index.md","lastUpdated":1671033504991}',n={},a=o('',4),c=[a];function r(d,p,s,_,l,f){return i(),t("div",null,c)}var u=e(n,[["render",r]]);export{h as __pageData,u as default};
