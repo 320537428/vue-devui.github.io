@@ -1,1 +1,0 @@
-import{_ as e,o as i,c as t,b as o}from"./app.e05bde08.js";const h='{"title":"\u5F00\u53D1\u89C4\u8303","description":"","frontmatter":{},"relativePath":"contributing/development-specification/index.md","lastUpdated":1692945865686}',n={},a=o('',4),c=[a];function r(d,p,s,_,l,f){return i(),t("div",null,c)}var u=e(n,[["render",r]]);export{h as __pageData,u as default};
